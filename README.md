@@ -1,2 +1,2 @@
 # Robotics
-Miscellaneous FTC (For now) programs
+Miscellaneous FTC (for now) programs
